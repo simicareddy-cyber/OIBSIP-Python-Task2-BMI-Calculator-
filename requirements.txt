@@ -1,0 +1,8 @@
+Language       : Python 3.12.x
+GUI            : Tkinter
+Visualization  : Matplotlib 3.9.2
+Database       : SQLite3
+File Storage   : CSV (optional)
+Image Support  : Pillow 10.4.0 (optional)
+IDE            : VS Code
+Version Control: Git (optional)
